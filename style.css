@@ -9,6 +9,8 @@ body {
     align-items: center;
     height: 100vh;
     flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
 }
 
 .weather {
@@ -17,7 +19,6 @@ body {
     overflow: hidden;
     padding: 2rem;
     margin-top: 2rem;
-    max-width: 400px;
 }
 
 .image {
