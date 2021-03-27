@@ -1,0 +1,29 @@
+body {
+    background-color: #7e7e7e;
+    height: 100vh;
+}
+
+.main-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.weather {
+    background-color: rgb(187, 183, 183);
+    border-radius: 2rem;
+    overflow: hidden;
+    padding: 2rem;
+    margin-top: 2rem;
+    max-width: 400px;
+}
+
+.image {
+    margin-right: 1.5rem;
+}
+
+.info {
+
+}
